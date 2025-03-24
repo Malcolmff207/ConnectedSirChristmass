@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrelSync", "ParrelSync.csproj", "{9561dd3f-a355-0605-64bc-643019a2e2db}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameDebugConsole.Runtime", "IngameDebugConsole.Runtime.csproj", "{c103a670-8968-a412-a3d7-d2676def97c8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{58e6c211-6cfb-03d9-6200-988182348901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameDebugConsole.Editor", "IngameDebugConsole.Editor.csproj", "{ae6c05db-aa7b-4071-81bc-6090e81643da}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{97ff0a0e-330b-7ee3-5874-29f43b8104e5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{4264abe2-2bff-122b-9d3d-109cf11526cc}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9561dd3f-a355-0605-64bc-643019a2e2db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9561dd3f-a355-0605-64bc-643019a2e2db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c103a670-8968-a412-a3d7-d2676def97c8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c103a670-8968-a412-a3d7-d2676def97c8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58e6c211-6cfb-03d9-6200-988182348901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58e6c211-6cfb-03d9-6200-988182348901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ae6c05db-aa7b-4071-81bc-6090e81643da}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ae6c05db-aa7b-4071-81bc-6090e81643da}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ff0a0e-330b-7ee3-5874-29f43b8104e5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ff0a0e-330b-7ee3-5874-29f43b8104e5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4264abe2-2bff-122b-9d3d-109cf11526cc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4264abe2-2bff-122b-9d3d-109cf11526cc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
